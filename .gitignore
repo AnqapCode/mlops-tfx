@@ -1,0 +1,12 @@
+# Mengabaikan data mentah agar tidak memberatkan repository
+data/
+raw_spam.csv
+
+# Mengabaikan folder proses TFX dan metadata (karena ukurannya bisa sangat besar)
+arifcahyo27-pipeline-*/
+metadata/
+
+# Mengabaikan file sistem dan cache Python
+__pycache__/
+.ipynb_checkpoints/
+*.pyc

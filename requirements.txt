@@ -1,0 +1,5 @@
+tfx==1.14.0
+tensorflow==2.14.0
+keras-tuner==1.4.6
+pylint==3.0.3
+setuptools==69.0.3
